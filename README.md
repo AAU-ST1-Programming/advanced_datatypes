@@ -7,8 +7,6 @@
 
 ## ​ Usage
 
-To use this template:
-
 2. Clone it locally:
    ```bash
    git clone https://github.com/AAU-ST1-Programming/advanced_datatypes.git
@@ -25,8 +23,6 @@ To use this template:
 **Videos:**
 - [Youtube Structs and Unions](https://www.youtube.com/watch?v=KL65a0TyeYo)
 - [Panopto Videoer](https://panopto.aau.dk/Panopto/Pages/Sessions/List.aspx?folderID=637baf64-7443-4b83-8fad-b2db008ce7f1)
-
-
 
 
 Til hver lektion skal man forvente følgende:
