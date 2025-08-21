@@ -18,6 +18,8 @@
 - [Enum](https://www.javatpoint.com/enum-in-c)
 - [struct](https://www.tutorialspoint.com/cprogramming/c_structures.htm)
 - [Union](https://www.tutorialspoint.com/cprogramming/c_unions.htm)
+- [The C programming Language](https://github.com/AAU-ST1-Programming/introduktion/blob/main/files/The%20C%20Programming%20Language.pdf) 
+  - Sec 6.1 - 6.5, 6.7-6.8
 
 
 **Videos:**
