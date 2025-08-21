@@ -1,21 +1,33 @@
 # {{REPO_NAME}}
 
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
-- **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
-- **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
+- **PowerPoint slideshow**: `advanced_datatypes.pptx`
+- **Questestions:** – `advanced_datatypes_questions.docx` Indeholder spørgsmål som i får i forbindelsen med forlæsningen.
+- **Lecture specific files** - `files/` En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.
 ---
 
 ## ​ Usage
 
 To use this template:
 
-1. Click **Use this template** on GitHub to create a new repo.
 2. Clone it locally:
    ```bash
-   git clone https://github.com/you/{{REPO_NAME}}.git
-   cd {{REPO_NAME}}
+   git clone https://github.com/AAU-ST1-Programming/advanced_datatypes.git
+   cd advanced_datatypes
 
 ## Forberedelse
+
+**Læs:**
+- [Enum](https://www.javatpoint.com/enum-in-c)
+- [struct](https://www.tutorialspoint.com/cprogramming/c_structures.htm)
+- [Union](https://www.tutorialspoint.com/cprogramming/c_unions.htm)
+
+
+**Videos:**
+- [Youtube Structs and Unions](https://www.youtube.com/watch?v=KL65a0TyeYo)
+- [Panopto Videoer](https://panopto.aau.dk/Panopto/Pages/Sessions/List.aspx?folderID=637baf64-7443-4b83-8fad-b2db008ce7f1)
+
+
+
 
 Til hver lektion skal man forvente følgende:
 
