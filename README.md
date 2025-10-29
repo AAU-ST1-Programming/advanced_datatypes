@@ -15,7 +15,7 @@
 ## Forberedelse
 
 **Læs:**
-- [Enum](https://www.javatpoint.com/enum-in-c)
+- [Enum](https://www.tutorialspoint.com/cprogramming/c_enumeration_or_enum.htm)
 - [struct](https://www.tutorialspoint.com/cprogramming/c_structures.htm)
 - [Union](https://www.tutorialspoint.com/cprogramming/c_unions.htm)
 - [The C programming Language](https://github.com/AAU-ST1-Programming/introduktion/blob/main/files/The%20C%20Programming%20Language.pdf) 
