@@ -1,5 +1,7 @@
 # Advanced Data Types
 
+![files/shared_overview_table.png](files/shared_overview_table.png)
+
 - **PowerPoint slideshow**: `advanced_datatypes.pptx`
 - **Questestions:** – `advanced_datatypes_questions.docx` Indeholder spørgsmål som i får i forbindelsen med forlæsningen.
 - **Lecture specific files** - `files/` En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.
