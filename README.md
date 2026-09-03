@@ -1,4 +1,4 @@
-# {{REPO_NAME}}
+# Advanced Data Types
 
 - **PowerPoint slideshow**: `advanced_datatypes.pptx`
 - **Questestions:** – `advanced_datatypes_questions.docx` Indeholder spørgsmål som i får i forbindelsen med forlæsningen.
