@@ -122,6 +122,9 @@ Martin is working with ESP32 buttons and wants to use proper names instead of ma
 - `Serial.print` / `Serial.println`
 - `delay` function
 
+![files/esp32](files/esp32_board.jpg)
+
+
 **The Task:**
 
 1. Define an enum called `ButtonPins` with values:
@@ -209,8 +212,9 @@ Martin wants to analyze his patient data. *"I need to calculate the average and 
 4. Print descriptive information in the terminal, along with the number of patients
 
 Formulas:
-- Mean: x̄ = (∑ₜ₌₁ⁿ xₜ) / N
-- Standard deviation: std = √(∑ₜ₌₁ⁿ (xₜ - x̄)² / (N - 1))
+- Mean: $\bar{x} = \frac{1}{N} \sum\_{t=1}^{n} x\_{t}$
+- Variance: $\sigma^2 = \frac{1}{N-1} \sum\_{t=1}^{n} (x\_{t} - \bar{x})^2$
+- Standard deviation: $\sigma = \sqrt{\sigma^2}$
 
 5. **PBL:** Martin asks: *"Can you also calculate the minimum and maximum values for each measurement?"*
 
